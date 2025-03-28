@@ -1,0 +1,1 @@
+I created this simple landing  page immediately after my school exam just to get back on my feet with programming
